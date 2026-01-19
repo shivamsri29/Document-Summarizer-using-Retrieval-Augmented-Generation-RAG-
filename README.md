@@ -1,0 +1,2 @@
+# Document-Summarizer-using-Retrieval-Augmented-Generation-RAG-
+Built an intelligent document summarization and question-answering system using Retrieval-Augmented Generation (RAG) with LangChain and Google Gemini 2.5 Flash, enabling accurate, context-aware understanding of large documents.  🤖 AI-Powered Document Summarization &amp; Q&amp;A Python · LangChain · Gemini 2.5 Flash · HuggingFace · ChromaDB
