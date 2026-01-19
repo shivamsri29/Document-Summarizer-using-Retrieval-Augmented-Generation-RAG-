@@ -98,7 +98,7 @@ document-summarizer-rag/
 └── README.md
 
 ▶️ How to Run
-git clone https://github.com/your-username/document-summarizer-rag
+git clone https://github.com/shivamsri29/document-summarizer-rag
 cd document-summarizer-rag
 pip install -r requirements.txt
 python src/app.py
@@ -117,10 +117,5 @@ Knowledge-base assistant
 
 Resume-grade Generative AI project
 
-👤 Author
 
-Shivam Srivastava
-GitHub: https://github.com/your-username
-
-LinkedIn: https://linkedin.com/in/your-profile
 
